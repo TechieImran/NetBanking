@@ -1,0 +1,4 @@
+[INFO ] 2024-05-01 15:49:40.153 [TestNG-tests-1] BaseClass -  URL is oppened  
+[ERROR] 2024-05-01 15:49:40.942 [TestNG-tests-1] BaseClass - Username is entered 
+[INFO ] 2024-05-01 15:49:42.041 [TestNG-tests-1] BaseClass - password is entered 
+[INFO ] 2024-05-01 15:49:43.208 [TestNG-tests-1] BaseClass - Clicked on login button 
