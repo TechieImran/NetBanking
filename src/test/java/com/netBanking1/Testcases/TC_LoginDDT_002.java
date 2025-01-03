@@ -69,7 +69,7 @@ public class TC_LoginDDT_002 extends BaseClass
     	int rowNum=XLUtils.getRowCount(path, "Sheet1");
     	int cellNum=XLUtils.getCellCount(path, "Sheet1");
     	String[][] Storage=new String[rowNum][cellNum];
-    	for(int i=1;i<=rowNum;i++)
+    	for(int i=1;i<rowNum;i++)
     	{
     		for(int j=0;j<cellNum;j++)
     		{
