@@ -11,9 +11,9 @@ public class AddNewCustomer
 {
     WebDriver ldriver;
 	
-    @FindBy(how=How.XPATH,using="/html/body/div[3]/div/ul/li[2]/a")
+    @FindBy(how=How.ID,using="/html/body/div[3]/div/ul/li[2]/a")
      WebElement newCustButton;
- 
+     
    @FindBy(how=How.NAME,using="")
     WebElement new1;
 	
