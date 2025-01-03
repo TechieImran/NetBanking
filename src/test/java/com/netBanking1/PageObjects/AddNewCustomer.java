@@ -15,7 +15,7 @@ public class AddNewCustomer
      WebElement newCustButton;
  
    @FindBy(how=How.NAME,using="")
-    WebElement nw;
+    WebElement new1;
 	
     @FindBy(how=How.XPATH,using="//input[@name='name']")
     WebElement cusName;
